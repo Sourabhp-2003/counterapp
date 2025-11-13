@@ -41,7 +41,7 @@ const App = () => {
       <br></br> <br></br>
       <button onClick={ () => setCount3(count3 + 1)}>Vote for Candidate 3</button>
       <br></br> <br></br>
-      <h2>🏆 Current Leader: {leader}</h2>
+      <h2>🏆 Current Leader : {leader}</h2>
       
     </>
   );
